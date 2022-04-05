@@ -43,23 +43,23 @@
     },
     {
       "id": 7,
-      "name": "Contender",
-      "image": "https://www.miamishoot.com/wp-content/uploads/2016/01/MSM-Miami-Shoot-Magazine-Miami-Boat-Show-Formula330CBRmainrunMY15-small.jpg",
+      "name": "64' Cantieri Opera Yacht",
+      "image": "https://boatchartersinmiami.com/wp-content/uploads/DSC03171-colored.jpeg",
       "capacity": "10",
       "activity": "Cruising"
     },
     {
       "id": 8,
-      "name": "Contender",
-      "image": "https://www.miamishoot.com/wp-content/uploads/2016/01/MSM-Miami-Shoot-Magazine-Miami-Boat-Show-Formula330CBRmainrunMY15-small.jpg",
-      "capacity": "10",
+      "name": "Catamaran",
+      "image": "https://bvisail.com/wp-content/uploads/2020/03/lolalita-grenada.png",
+      "capacity": "14",
       "activity": "Cruising"
     },
     {
       "id": 9,
-      "name": "Contender",
-      "image": "https://www.miamishoot.com/wp-content/uploads/2016/01/MSM-Miami-Shoot-Magazine-Miami-Boat-Show-Formula330CBRmainrunMY15-small.jpg",
-      "capacity": "10",
+      "name": "Sailboat",
+      "image": "https://www.bviyachtcharters.com/wp-content/uploads/2011/11/monohulls.jpg",
+      "capacity": "7",
       "activity": "Cruising"
     },
     {
@@ -71,15 +71,15 @@
     },
     {
       "id": 11,
-      "name": "Contender",
-      "image": "https://www.miamishoot.com/wp-content/uploads/2016/01/MSM-Miami-Shoot-Magazine-Miami-Boat-Show-Formula330CBRmainrunMY15-small.jpg",
-      "capacity": "10",
+      "name": "Luxury Yacht",
+      "image": "https://www.miamiboatcharters.com/wp-content/uploads/2015/06/slideimage1.jpg",
+      "capacity": "15",
       "activity": "Cruising"
     },
     {
       "id": 12,
-      "name": "Contender",
-      "image": "https://www.miamishoot.com/wp-content/uploads/2016/01/MSM-Miami-Shoot-Magazine-Miami-Boat-Show-Formula330CBRmainrunMY15-small.jpg",
+      "name": "Catamaran",
+      "image": "https://mms.businesswire.com/media/20151111006212/en/496051/5/Lagoon_560_Catamaran_Photo_for__Sabre_Release.jpg",
       "capacity": "10",
       "activity": "Cruising"
     }

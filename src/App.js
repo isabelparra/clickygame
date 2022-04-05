@@ -6,7 +6,10 @@ import './App.css';
 
 class App extends Component {
   state = {
-    boats
+    boats, 
+    favorites: 0,
+    idsSelected: [],
+    message: "Save your favorites"
   };
 
   removeBoat = id => {

@@ -7,6 +7,7 @@ const BoatCard = props => (
       <img alt={props.name} src={props.image} />
     </div>
     <div className="content">
+    {/* <span onClick={() => props.handleFavorite()} className="favorite">&hearts;</span> */}
       <ul>
         <li>
           <strong>Name:</strong> {props.name}
@@ -20,6 +21,7 @@ const BoatCard = props => (
       </ul>
     </div>
     <span onClick={() => props.removeBoat(props.id)} className="remove">𝘅</span>
+
   </div>
 );
 
