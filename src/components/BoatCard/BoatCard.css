@@ -1,8 +1,8 @@
 .card {
     background: white;
     border-radius: 2px;
-    height: 325px;
-    margin: 1rem;
+    /* height: 325px; */
+    margin: 0 auto;
     position: relative;
     width: 325px;
 
@@ -16,7 +16,7 @@
 }
 
 .card > .img-container > img {
-    width: 60%
+    width: 90%
 }
 .card > .content {
     padding-left: 1rem;
@@ -34,7 +34,7 @@
 
 .card > .remove {
     color: grey;
-    font-size: 48px;
+    font-size: 30px;
     position: absolute;
     top: -20px;
     right: 5px;
@@ -45,3 +45,9 @@
     color: #d50000;
   }
   
+  @media (min-width: 768px) {
+    .card {
+      width: 33.33%;
+      float: left;
+    }
+  }
